@@ -1,0 +1,14 @@
+﻿  Searching.cpp
+C:\Cstm\.PSTU_works\.Inf\Labs\Untiteled\Lab_Searching\Program\Program\Int_Binary.h(7,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Searching.cpp")
+  
+C:\Cstm\.PSTU_works\.Inf\Labs\Untiteled\Lab_Searching\Program\Program\Int_Interpolation.h(8,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Searching.cpp")
+  
+C:\Cstm\.PSTU_works\.Inf\Labs\Untiteled\Lab_Searching\Program\Program\Str_Boyer_Moore.h(7,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Searching.cpp")
+  
+C:\Cstm\.PSTU_works\.Inf\Labs\Untiteled\Lab_Searching\Program\Program\Str_KMP.h(28,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Searching.cpp")
+  
+  Program.vcxproj -> C:\Cstm\.PSTU_works\.Inf\Labs\Untiteled\Lab_Searching\Program\x64\Debug\Program.exe
